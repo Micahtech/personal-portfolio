@@ -105,7 +105,10 @@ export const navLinks = [
     id: "education",
     title: "Education",
   },
- 
+  {
+    id: "achievements",
+    title: "Achievements",
+  },
   {
     id: "projects",
     title: "Projects",
@@ -129,19 +132,19 @@ export const educationList = [
   {
     id: "education-1",
     icon: nitk,
-    title: "University of Uyo, Akwa Ibom",
-    degree: "Bachelor of Computer Science",
+    title: "National Institute of Technology Karnataka, Surathkal",
+    degree: "Bachelor of Technology",
     duration: "December 2020 - May 2024",
-    content1: "Major: Software Development",
+    content1: "Major: Electronics and Communication Engineering",
     content2: "Minor: Information Technology",
   },
   {
     id: "education-2",
     icon: pba,
-    title: "Voice of Liberty Training Schools",
+    title: "Polkadot Blockchain Academy",
     degree: "",
-    duration: "May 2020 - June 2021",
-    content1: "Trained and developed expertise in software development and programming.",
+    duration: "May 2024 - June 2024",
+    content1: "Graduated with a distinction in the fifth cohort of the Polkadot Blockchain Academy at the National University of Singapore.",
   },
 ];
 
@@ -306,7 +309,7 @@ export const skills = [
       },
       {
         id: "f-2",
-        icon:  FaPhp,
+        icon: SiRubyonrails,
         name: "Ruby on Rails",
       },
       {

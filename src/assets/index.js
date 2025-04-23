@@ -1,4 +1,4 @@
-import parthmittal from "./__MicahThegreat___1_-removebg-preview.png";
+import parthmittal from "./parth.svg";
 import profilePic from "./profile-pic.jpg";
 import menu from "./menu.svg";
 import close from "./close.svg";
@@ -16,7 +16,7 @@ import chargeswap from "./chargeswap.png";
 import placeicon from "./place-icon.svg";
 import recruitment from "./recruitment.png";
 import huntly from "./huntly.png";
-import fivenines from "./fivenine.png";
+import oracle from "./oracle.jpg";
 import comicify_ai from "./comicify-ai.png";
 import greentrust from "./green_trust.png";
 import averlon from "./averlon.jpg";
@@ -50,7 +50,7 @@ export {
   placeicon,
   recruitment,
   huntly,
-  fivenines,
+  oracle,
   comicify_ai,
   greentrust,
   averlon,
