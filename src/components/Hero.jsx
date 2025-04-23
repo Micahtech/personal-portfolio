@@ -1,7 +1,7 @@
 import styles from "../style";
 import LetsConnect from "./LetsConnect";
 import Lottie from "react-lottie-player";
-import animationData from "../lotties/person-coding.json";
+import animationData from "../lotties/avatar.png";
 import { aboutMe } from "../constants";
 
 
