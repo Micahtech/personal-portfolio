@@ -76,7 +76,8 @@ import {
 
 import {
   FaHardHat,
-  FaRust
+  FaRust,
+  FaPhp
 } from "react-icons/fa";
 
 import {
@@ -86,6 +87,7 @@ import {
 import {
   FaGolang
 } from "react-icons/fa6";
+
 
 import { DiCss3, DiJava, DiMsqlServer, DiRuby } from "react-icons/di";
 
@@ -307,7 +309,7 @@ export const skills = [
       },
       {
         id: "f-2",
-        icon: SiRubyonrails,
+        icon:  FaPhp,
         name: "Ruby on Rails",
       },
       {
@@ -1062,3 +1064,4 @@ export const itemsToFetch = 20;
 
 // Add names of GitHub repos you'd like to display open source contributions from in the 'org/repo' format. 
 export const includedRepos = ['publiclab/plots2', 'zulip/zulip', 'paritytech/polkadot-sdk'];
+
