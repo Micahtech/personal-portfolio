@@ -71,12 +71,16 @@ import {
   SiOpenai,
   SiGooglecloud,
   SiNextdotjs,
-  SiMicrosoftazure
+  SiMicrosoftazure,
+  SiWoo
 } from "react-icons/si";
 
 import {
   FaHardHat,
-  FaRust
+  FaRust,
+  FaPhp,
+  FaNode,
+  FaWordpress
 } from "react-icons/fa";
 
 import {
@@ -252,8 +256,8 @@ export const skills = [
       },
       {
         id: "pl-3",
-        icon: SiCplusplus,
-        name: "C++",
+        icon:  FaPhp ,
+        name: "PHP",
       },
       {
         id: "pl-4",
@@ -272,8 +276,8 @@ export const skills = [
       },
       {
         id: "pl-7",
-        icon: SiC,
-        name: "C",
+        icon: FaNode,
+        name: "Node Js",
       },
       {
         id: "pl-8",
@@ -367,8 +371,8 @@ export const skills = [
       },
       {
         id: "t-5",
-        icon: SiGit,
-        name: "Git",
+        icon: FaWordpress,
+        name: "Wordpress",
       },
       {
         id: "t-6",
@@ -377,8 +381,8 @@ export const skills = [
       },
       {
         id: "t-7",
-        icon: AiOutlineGitlab,
-        name: "Gitlab",
+        icon: SiWoo,
+        name: "Woo-Commerce",
       },
       {
         id: "t-8",
