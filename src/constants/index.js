@@ -76,8 +76,7 @@ import {
 
 import {
   FaHardHat,
-  FaRust,
-  FaPhp
+  FaRust
 } from "react-icons/fa";
 
 import {
@@ -87,7 +86,6 @@ import {
 import {
   FaGolang
 } from "react-icons/fa6";
-
 
 import { DiCss3, DiJava, DiMsqlServer, DiRuby } from "react-icons/di";
 
@@ -1053,7 +1051,7 @@ export const socialMedia = [
 
 // Your professional summary
 export const aboutMe = {
-    name: "Micah Thegreat",
+    name: "Parth Mittal",
     githubUsername: 'mittal-parth',
     tagLine: "MTS-1 @Oracle | ex-Tech Lead @IRIS,NITK | ETHIndia'22,24 Winner | 8x Hackathon Winner | NITK'24 | PBA-5",
     intro: "Software Developer from India who is either busy improving his craft or pondering over the next big idea."
@@ -1064,4 +1062,3 @@ export const itemsToFetch = 20;
 
 // Add names of GitHub repos you'd like to display open source contributions from in the 'org/repo' format. 
 export const includedRepos = ['publiclab/plots2', 'zulip/zulip', 'paritytech/polkadot-sdk'];
-

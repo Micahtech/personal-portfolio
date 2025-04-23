@@ -174,3 +174,4 @@ const AchievementCard = (props) => {
   );
 };
 
+export default Achievements;

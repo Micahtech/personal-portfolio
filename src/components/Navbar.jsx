@@ -34,7 +34,7 @@ const Navbar = () => {
       <a href="#home">
         <img
           src={parthmittal}
-          alt="Micahthegreat"
+          alt="Parth Mittal"
           className="w-[80px] h-[80px]"
         />
       </a>
