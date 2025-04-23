@@ -544,47 +544,27 @@ export const projects = [
   },
   {
     id: "project-3",
-    title: "ChargeSwap",
-    github: "https://github.com/CommanderAstern/ChargeSwap",
+    title: "Hotel Website",
+    github: "",
     link: "https://devfolio.co/projects/chargeswap-3527",
     image: chargeswap,
     content:
-      "A Blockchain-based EV-Battery swapping solution - winning project at ETHIndia'22, the world's largest Ethereum Hackathon",
+      "A hotel booking website simple design with HTML, CSS and JS",
     stack: [
       {
         id: "icon-1",
-        icon: SiReact,
-        name: "React"
+        icon: AiFillHtml5,
+        name: "HTML"
+      },
+      {
+        id: "icon-1",
+        icon: DiCss3,
+        name: "CSS"
       },
       {
         id: "icon-3",
-        icon: SiWeb3Dotjs,
-        name: "Web3.js"
-      },
-      {
-        id: "icon-4",
-        icon: SiSolidity,
-        name: "Solidity"
-      },
-      {
-        id: "icon-5",
-        icon: FaHardHat,
-        name: "HardHat"
-      },
-      {
-        id: "icon-6",
-        icon: SiIpfs,
-        name: "IPFS"
-      },
-      {
-        id: "icon-7",
-        icon: SiArduino,
-        name: "Arduino"
-      },
-      {
-        id: "icon-8",
-        icon: IoIosNotificationsOutline,
-        name: "Push Protocol"
+        icon: SiJavascript,
+        name: "Java Script"
       },
     ],
   },

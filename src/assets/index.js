@@ -18,7 +18,7 @@ import recruitment from "./recruitment.png";
 import huntly from "./huntly.png";
 import oracle from "./fivenines.png";
 import comicify_ai from "./saleor.png";
-import greentrust from "./green_trust.png";
+import greentrust from "./emebest.png";
 import averlon from "./20250207_100939.jpg";
 import devfolio from "./devfolio.png";
 import pba from "./pba_logo.jpeg";
