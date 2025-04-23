@@ -491,12 +491,12 @@ export const experiences = [
 export const projects = [
   {
     id: "project-1",
-    title: "Comicify.ai",
-    github: "https://github.com/ayush4345/Comicify.ai",
+    title: "Store Front",
+    github: "https://github.com/Micahtech/storefront",
     link: "https://comicify-ai.vercel.app/",
     image: comicify_ai,
     content:
-      "Convert any academic/news/boring text into cool comic strips using GPT-3.5 and Stable Diffusion!",
+      "E-commerce store for shopping online, with a lot of user friendly features and a sleek UI/UX",
     stack: [
       {
         id: "icon-1",
@@ -513,57 +513,33 @@ export const projects = [
         icon: SiOpenai,
         name: "OpenAI"
       },
-      {
-        id: "icon-4",
-        icon: SiGooglecloud,
-        name: "Google Cloud Platform"
-      },
-      {
-        id: "icon-5",
-        icon: SiFlask,
-        name: "Flask"
-      },
     ],
   },
   {
     id: "project-2",
-    title: "GreenTrust",
-    github: "https://github.com/mittal-parth/GreenTrust",
-    link: "https://green-trust-fantom.netlify.app/",
+    title: "Emebest Foundation Website",
+    github: "",
+    link: "http://emebest.co4.in/",
     image: greentrust,
     content:
-      "Winning project at 3 hackathons, GreenTrust offers a novel solution for obtaining certification in organic farming by organizing credible and decentralized Participatory Guarantee Systems (PGSs).",
+      "Website Design For Emebest Charity Foundation",
     stack: [
       {
         id: "icon-1",
         icon: SiReact,
-        name: "React"
+        name: "HTML"
       },
       {
         id: "icon-2",
-        icon: SiTailwindcss,
-        name: "TailwindCSS"
+        icon: DiCss3,
+        name: "CSS"
       },
       {
         id: "icon-3",
-        icon: SiNextdotjs,
-        name: "Next.js"
+        icon: SiJavascript,
+        name: "js"
       },
-      {
-        id: "icon-4",
-        icon: SiIpfs,
-        name: "IPFS"
-      },
-      {
-        id: "icon-5",
-        icon: SiSolidity,
-        name: "Solidity"
-      },
-      {
-        id: "icon-6",
-        icon: IoIosNotificationsOutline,
-        name: "Push Protocol"
-      },
+      
     ],
   },
   {
