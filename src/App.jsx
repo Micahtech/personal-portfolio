@@ -12,8 +12,7 @@ import {
   OpenSource,
   Projects,
   BlogPosts,
-  Loading,
-  Achievements,
+  Loading
 } from "./components";
 
 const App = () => {

@@ -1,6 +1,5 @@
 import React, { useState, useEffect, useRef } from "react"; // Added useRef
 import { BsLink45Deg } from "react-icons/bs";
-import { achievements } from "../constants";
 import { AiFillGithub } from "react-icons/ai";
 import { FaYoutube } from "react-icons/fa";
 import { TiNews } from "react-icons/ti";
@@ -174,4 +173,3 @@ const AchievementCard = (props) => {
   );
 };
 
-export default Achievements;
