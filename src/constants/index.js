@@ -80,7 +80,8 @@ import {
   FaRust,
   FaPhp,
   FaNode,
-  FaWordpress
+  FaWordpress,
+  FaFigma
 } from "react-icons/fa";
 
 import {
@@ -386,8 +387,8 @@ export const skills = [
       },
       {
         id: "t-8",
-        icon: SiNetlify,
-        name: "Netlify",
+        icon: FaFigma,
+        name: "Figma",
       },
       {
         id: "t-9",
@@ -401,30 +402,30 @@ export const skills = [
 // Add your current/past professional work experience here
 export const experiences = [
   {
-    organisation: "Oracle, India",
+    organisation: "Fivenines Consulting",
     logo: oracle,
-    link: "https://www.oracle.com/in/",
+    link: "https://www.fiveninesconsulting.io",
     positions: [
       {
-        title: "Member of Technical Staff - 1",
-        duration: "Jul 2024 - Present",
+        title: "Web Developer and Member of DevOps Team",
+        duration: "Jan 2025 - Present",
         content: [
           {
-            text: "Working in the Database as a Service Control Plane team for Oracle Cloud Infrastructure.",
+            text: "Working on Website Development and DevOps for the Company",
             link: "",
           },
         ],
       },
       {
-        title: "Member of Technical Staff Intern",
-        duration: "May 2023 - Jul 2023",
+        title: "UI/UX Design for the website ",
+        duration: "Jan 2025 - March 2025",
         content: [
           {
-            text: "Worked with the Exadata Cloud@Customer team in the Database Unit.",
+            text: "Worked with a team to design the UI/UX for the company website",
             link: "",
           },
           {
-            text: "Wrote APIs in Java to help gracefully migrate a running ExaC@C infrastructure to a new region in the case of a region failure",
+            text: "",
             link: ""
           }
         ],
