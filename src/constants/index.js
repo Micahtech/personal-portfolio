@@ -454,54 +454,35 @@ export const experiences = [
     ],
   },
   {
-    organisation: "IRIS, NITK",
+    organisation: "Pilgrims Ministerial",
     logo: iris,
-    link: "https://iris.nitk.ac.in/about_us",
+    link: "https://ptima.org",
     positions: [
       {
-        title: "Tech Lead",
-        duration: "Apr 2023 - Apr 2024",
+        title: "Tutor",
+        duration: "Apr 2024 - Jan 2025",
         content: [
           {
-            text: "Led a team of 40+ students in digitizing administrative, academic and alumni-related work.",
+            text: "Tutored 25+ young children in computer and ICT",
             link: "",
           },
           {
-            text: "Managed all phases of Software Development Life Cycle (SDLC) for 15+ modules.",
-            link: "",
-          },
-        ],
-      },
-      {
-        title: "Web Lead",
-        duration: "Apr 2022 - Present",
-        content: [
-          {
-            text: "Managed a team of 6 student developers while also overlooking multiple modules.",
+            text: "",
             link: "",
           },
         ],
       },
       {
         title: "Web Developer",
-        duration: "Nov 2021 - Apr 2022",
+        duration: "Apr 2022 - Present",
         content: [
           {
-            text: "Added Conditional Fields support to the Forms Module.",
+            text: "Managed all phases of the Institution's website design and development",
             link: "",
           },
         ],
       },
-      {
-        title: "Web Developer Intern",
-        duration: "Jun 2021 - Oct 2021",
-        content: [
-          {
-            text: "Developed a multi-role approval flow system to facilitate data collection and display on the Institute's Department Websites.",
-            link: "",
-          },
-        ],
-      },
+      
     ],
   }
 ];
