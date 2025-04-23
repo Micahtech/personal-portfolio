@@ -19,7 +19,7 @@ import huntly from "./huntly.png";
 import oracle from "./fivenines.png";
 import comicify_ai from "./comicify-ai.png";
 import greentrust from "./green_trust.png";
-import averlon from "./averlon.jpg";
+import averlon from "./20250207_100939.jpg";
 import devfolio from "./devfolio.png";
 import pba from "./pba_logo.jpeg";
 import ethglobal from "./ethglobal.png";

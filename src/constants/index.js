@@ -433,20 +433,20 @@ export const experiences = [
     ],
   },
   {
-    organisation: "Averlon",
+    organisation: "Sparopay",
     logo: averlon,
-    link: "https://averlon.ai/",
+    link: "https://sparopay.com.ng",
     positions: [
       {
-        title: "Software Developer Intern",
-        duration: "Sept 2023 - Feb 2024",
+        title: "Web Developer",
+        duration: "March 2025 - Present",
         content: [
           {
-            text: "Added support for the discoverability of Microsoft Azure assets utilising Go and Gremlin.",
+            text: "Developed and connected to betting api for easy funding of betting account using PHP, Curl, HTML, CSS and Javascript",
             link: ""
           },
           {
-            text: "Extended support for Azure for reachability analysis of assets for cloud security posture management.",
+            text: "Developed and Designed a Referral Leaderboard for the ongoing referral contest",
             link: ""
           }
         ],
