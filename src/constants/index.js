@@ -1051,10 +1051,10 @@ export const socialMedia = [
 
 // Your professional summary
 export const aboutMe = {
-    name: "Parth Mittal",
-    githubUsername: 'mittal-parth',
+    name: "Micah Thegreat",
+    githubUsername: 'Micah Tech',
     tagLine: "MTS-1 @Oracle | ex-Tech Lead @IRIS,NITK | ETHIndia'22,24 Winner | 8x Hackathon Winner | NITK'24 | PBA-5",
-    intro: "Software Developer from India who is either busy improving his craft or pondering over the next big idea."
+    intro: "Software and Web Developer who is either busy improving his craft or pondering over the next big idea."
 }
 
 // The maximum number of PRs to be displayed in the Open Source Contributions section.
