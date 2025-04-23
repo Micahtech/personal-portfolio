@@ -12,7 +12,7 @@ import {
   placeicon,
   recruitment,
   huntly,
-  oracle,
+  fivenines,
   comicify_ai,
   greentrust,
   averlon,
@@ -303,16 +303,16 @@ export const skills = [
 // Add your current/past professional work experience here
 export const experiences = [
   {
-    organisation: "Oracle, India",
-    logo: oracle,
-    link: "https://www.oracle.com/in/",
+    organisation: "FiveNines Consulting, USA",
+    logo: fivenines,
+    link: "https://www.fiveninesconsulting.io",
     positions: [
       {
-        title: "Member of Technical Staff - 1",
-        duration: "Jul 2024 - Present",
+        title: "Web Developer/ Devops Team Member",
+        duration: "Jan 2025 - Present",
         content: [
           {
-            text: "Working in the Database as a Service Control Plane team for Oracle Cloud Infrastructure.",
+            text: "Working as Web Developer and software developer for fivenines Consulting.",
             link: "",
           },
         ],
