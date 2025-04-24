@@ -1,5 +1,5 @@
 import parthmittal from "./parth.png";
-import profilePic from "./IMG-20250424-WA0035.jpg";
+import profilePic from "./IMG-20250424-WA0046.jpg";
 import menu from "./menu.svg";
 import close from "./close.svg";
 import arrowUp from "./arrow-up.svg";

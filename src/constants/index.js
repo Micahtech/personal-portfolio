@@ -38,6 +38,9 @@ import {
   AiOutlineGitlab,
 } from "react-icons/ai";
 
+import { FiGithub } from "react-icons/fi";
+import { CiInstagram } from "react-icons/ci";
+
 import {
   SiDjango,
   SiJavascript,
@@ -88,6 +91,8 @@ import {
 import {
   IoIosNotificationsOutline
 } from "react-icons/io";
+
+import { BiLogoGmail } from "react-icons/bi";
 
 import {
   FaGolang,
@@ -837,12 +842,12 @@ export const socialMedia = [
   },
   {
     id: "social-media-2",
-    icon: AiFillGithub,
+    icon: FiGithub,
     link: "https://www.github.com/Micahtech",
   },
   {
     id: "social-media-3",
-    icon: AiFillMail,
+    icon: BiLogoGmail,
     link: "mailto:wisdomjohnmicah@gmail.com",
   },
   {
@@ -852,7 +857,7 @@ export const socialMedia = [
   },
   {
     id: "social-media-5",
-    icon: AiFillInstagram,
+    icon: CiInstagram,
     link: "https://www.instagram.com/micahthegreat1?igsh=YzljYTk1ODg3Zg==",
   },
 ];
