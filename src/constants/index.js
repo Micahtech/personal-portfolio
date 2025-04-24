@@ -451,7 +451,7 @@ export const experiences = [
   },
   {
     organisation: "Pilgrims Ministerial",
-    logo: iris,
+    logo: placeicon,
     link: "https://ptima.org",
     positions: [
       {
