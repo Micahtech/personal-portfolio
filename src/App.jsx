@@ -7,7 +7,6 @@ import {
   Hero,
   Education,
   SkillsAndExperience,
-  ExtraCurricular,
   Footer,
   OpenSource,
   Projects,
@@ -64,7 +63,6 @@ const App = () => {
                 <Projects />
                 <BlogPosts enabled={false} />
                 <OpenSource />
-                <ExtraCurricular />
               </div>
             </div>
             <Footer />

@@ -6,7 +6,6 @@ import Education from "./Education";
 import SkillsAndExperience from "./SkillsAndExperience";
 import Projects from "./Projects";
 import OpenSource from "./OpenSource";
-import ExtraCurricular from "./ExtraCurricular";
 import Footer from "./Footer";
 import Button from "./Button";
 import Stats from "./Stats";
@@ -21,7 +20,6 @@ export {
     SkillsAndExperience,
     Projects,
     OpenSource,
-    ExtraCurricular,
     Footer,
     Button,
     Stats,
