@@ -746,7 +746,7 @@ export const stats = [
 ];
 
 // List out the extra curricular activities you have induldged in like - student clubs, joining research groups etc.
-export const extraCurricular = [
+/*export const extraCurricular = [
   {
     id: 1,
     organisation: "Devfolio",
@@ -828,7 +828,7 @@ export const extraCurricular = [
     ],
     logo: ecell,
   },
-];
+];*/
 
 // Links to your social media profiles
 export const socialMedia = [
