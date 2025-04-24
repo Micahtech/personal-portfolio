@@ -545,8 +545,8 @@ export const projects = [
   {
     id: "project-3",
     title: "Hotel Website",
-    github: "",
-    link: "https://devfolio.co/projects/chargeswap-3527",
+    github: "https://github.com/Micahtech/Hotel-Site/",
+    link: "https://hotelbooking-six-rho.vercel.app/",
     image: chargeswap,
     content:
       "A hotel booking website simple design with HTML, CSS and JS",
@@ -566,41 +566,36 @@ export const projects = [
         icon: SiJavascript,
         name: "Java Script"
       },
+      {
+        id: "icon-3",
+        icon: SiReact,
+        name: "React Js"
+      },
     ],
   },
   {
     id: "project-4",
-    title: "Samsotech Table Management System",
+    title: "Pilgrims MInisterial Website and CMS",
     github: "",
-    link: "https://www.linkedin.com/posts/mittal-parth_technologysolutions-softwaredevelopment-technology-activity-6994915645066809344-WnMY?utm_source=share&utm_medium=member_desktop",
+    link: "https://ptima.org",
     image: placeicon,
     content:
-      "Restaurant, Place, Table and realtime Reservation Management with Multi-Tenant Architecture, RBAC, SMS and Email integration for Samsotech International",
+      "Full Design website and CMS for the institution utilizing wordpress",
     stack: [
       {
         id: "icon-1",
         icon: SiDotnet,
-        name: "Dot Net Core MVC 6"
+        name: "HTML"
       },
       {
         id: "icon-2",
         icon: SiBootstrap,
-        name: "Bootstrap"
+        name: "CSS"
       },
       {
         id: "icon-3",
-        icon: DiMsqlServer,
-        name: "MS Sql Server"
-      },
-      {
-        id: "icon-4",
-        icon: SiJquery,
-        name: "jQuery"
-      },
-      {
-        id: "icon-5",
-        icon: SiTwilio,
-        name: "Twillio"
+        icon:  FaWordpress,
+        name: "Wordpress"
       },
     ],
   },
