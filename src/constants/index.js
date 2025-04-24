@@ -835,7 +835,7 @@ export const socialMedia = [
   {
     id: "social-media-1",
     icon: AiFillLinkedin,
-    link: "https://www.linkedin.com/in/mittal-parth",
+    link: "https://www.linkedin.com/in/wisdom-john",
   },
   {
     id: "social-media-2",
@@ -845,17 +845,17 @@ export const socialMedia = [
   {
     id: "social-media-3",
     icon: AiFillMail,
-    link: "mailto:mittalparth22@gmail.com",
+    link: "mailto:wisdomjohnmicah@gmail.com",
   },
   {
     id: "social-media-4",
     icon: AiOutlineTwitter,
-    link: "https://www.X.com/mittalparth_",
+    link: "https://x.com/micahthegreat25?t=nxaUou2Pu0LxJOOzyoADOg&s=09",
   },
   {
     id: "social-media-5",
     icon: AiFillInstagram,
-    link: "https://www.instagram.com/mittalparth_",
+    link: "https://www.instagram.com/micahthegreat1?igsh=YzljYTk1ODg3Zg==",
   },
 ];
 
