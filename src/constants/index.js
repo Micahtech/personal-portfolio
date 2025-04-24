@@ -490,17 +490,17 @@ export const experiences = [
 export const projects = [
   {
     id: "project-1",
-    title: "Store Front",
+    title: "Fivenines Consulting Website",
     github: "https://github.com/Micahtech/storefront",
-    link: "https://comicify-ai.vercel.app/",
-    image: comicify_ai,
+    link: "https://fiveninesconsulting.io/",
+    image: oracle,
     content:
-      "E-commerce store for shopping online, with a lot of user friendly features and a sleek UI/UX",
+      "Website design for fiveninesconsulting llc ",
     stack: [
       {
         id: "icon-1",
-        icon: SiReact,
-        name: "React"
+        icon: AiFillHtml5,
+        name: "HTML"
       },
       {
         id: "icon-2",
@@ -509,8 +509,8 @@ export const projects = [
       },
       {
         id: "icon-3",
-        icon: SiOpenai,
-        name: "OpenAI"
+        icon: SiJavascript,
+        name: "JS"
       },
     ],
   },
@@ -525,7 +525,7 @@ export const projects = [
     stack: [
       {
         id: "icon-1",
-        icon: SiReact,
+        icon: AiFillHtml5,
         name: "HTML"
       },
       {
