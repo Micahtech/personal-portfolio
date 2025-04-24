@@ -81,7 +81,8 @@ import {
   FaPhp,
   FaNode,
   FaWordpress,
-  FaFigma
+  FaFigma,
+  FaLinkedinIn
 } from "react-icons/fa";
 
 import {
@@ -89,7 +90,8 @@ import {
 } from "react-icons/io";
 
 import {
-  FaGolang
+  FaGolang,
+  FaXTwitter
 } from "react-icons/fa6";
 
 import { DiCss3, DiJava, DiMsqlServer, DiRuby } from "react-icons/di";
@@ -830,7 +832,7 @@ export const stats = [
 export const socialMedia = [
   {
     id: "social-media-1",
-    icon: AiFillLinkedin,
+    icon: FaLinkedinIn,
     link: "https://www.linkedin.com/in/wisdom-john",
   },
   {
@@ -845,7 +847,7 @@ export const socialMedia = [
   },
   {
     id: "social-media-4",
-    icon: AiOutlineTwitter,
+    icon: FaXTwitter,
     link: "https://x.com/micahthegreat25?t=nxaUou2Pu0LxJOOzyoADOg&s=09",
   },
   {
