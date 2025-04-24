@@ -859,7 +859,7 @@ export const socialMedia = [
 export const aboutMe = {
     name: "Micah Thegreat",
     githubUsername: 'Micah Tech',
-    tagLine: "MTS-1 @Oracle | ex-Tech Lead @IRIS,NITK | ETHIndia'22,24 Winner | 8x Hackathon Winner | NITK'24 | PBA-5",
+    tagLine: "Web Developer, Software Developer and Designer",
     intro: "Software and Web Developer who is either busy improving his craft or pondering over the next big idea."
 }
 
