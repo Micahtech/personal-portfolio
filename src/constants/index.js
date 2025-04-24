@@ -135,19 +135,19 @@ export const educationList = [
   {
     id: "education-1",
     icon: nitk,
-    title: "National Institute of Technology Karnataka, Surathkal",
-    degree: "Bachelor of Technology",
+    title: "University of Uyo",
+    degree: "Bachelor of Computer Sciene",
     duration: "December 2020 - May 2024",
-    content1: "Major: Electronics and Communication Engineering",
+    content1: "Major: Computer and IT",
     content2: "Minor: Information Technology",
   },
   {
     id: "education-2",
-    icon: pba,
-    title: "Polkadot Blockchain Academy",
+    icon: placeicon,
+    title: "Voice Of Liberty Training Schools",
     degree: "",
-    duration: "May 2024 - June 2024",
-    content1: "Graduated with a distinction in the fifth cohort of the Polkadot Blockchain Academy at the National University of Singapore.",
+    duration: "May 2020 - June 2021",
+    content1: "Trained on Programming skills",
   },
 ];
 
@@ -844,7 +844,7 @@ export const socialMedia = [
   {
     id: "social-media-2",
     icon: AiFillGithub,
-    link: "https://www.github.com/mittal-parth",
+    link: "https://www.github.com/Micahtech",
   },
   {
     id: "social-media-3",
@@ -854,7 +854,7 @@ export const socialMedia = [
   {
     id: "social-media-4",
     icon: AiOutlineTwitter,
-    link: "https://www.twitter.com/mittalparth_",
+    link: "https://www.X.com/mittalparth_",
   },
   {
     id: "social-media-5",

@@ -3,7 +3,7 @@ import profilePic from "./profile-pic.jpg";
 import menu from "./menu.svg";
 import close from "./close.svg";
 import arrowUp from "./arrow-up.svg";
-import nitk from "./nitk.png";
+import nitk from "./Universityuyo.jpeg";
 import cluboard from "./cluboard.png";
 import cash_flow from "./cash_flow.jpg";
 import ecell from "./ecell.png";
