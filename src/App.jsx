@@ -12,8 +12,7 @@ import {
   OpenSource,
   Projects,
   BlogPosts,
-  Loading,
-  Achievements,
+  Loading
 } from "./components";
 
 const App = () => {
@@ -58,7 +57,6 @@ const App = () => {
                 <Education />
               </div>
             </div>
-            <Achievements />
             <div
               className={`bg-primary ${styles.flexCenter} ${styles.paddingX}`}
             >

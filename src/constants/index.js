@@ -109,10 +109,6 @@ export const navLinks = [
     title: "Education",
   },
   {
-    id: "achievements",
-    title: "Achievements",
-  },
-  {
     id: "projects",
     title: "Projects",
   },
@@ -152,7 +148,7 @@ export const educationList = [
 ];
 
 // Add your past achievments here for example - rankings in hackathons/events
-export const achievements = [
+/*export const achievements = [
   {
     id: "a-1",
     icon: ethindia,
@@ -238,7 +234,7 @@ export const achievements = [
     content3: "",
     project: "https://devfolio.co/projects/green-trust-ed14",
   },
-];
+];*/
 
 // Add your software developments skills here for example - programming languages, frameworks etc.
 export const skills = [
